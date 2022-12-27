@@ -3,7 +3,7 @@
 /*
  *      Copyright (C) 2020 Jithin Renji
  *
- *      This program is free software: you can redistribute it and/or modify
+ *      is free software: you can redistribute it and/or modify
  *      it under the terms of the GNU General Public License as published by
  *      the Free Software Foundation, either version 3 of the License, or
  *      (at your option) any later version.
@@ -20,6 +20,7 @@
 
 #ifndef GENERAL_H
 #define GENERAL_H
+meghana
 
 #define RED             "\033[0;31m"
 #define B_RED           "\033[1;31m"
